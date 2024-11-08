@@ -1,0 +1,12 @@
+How to Run the Project
+
+1. Ensure you have Python, chrome web-driver, requests and selenium library installed on your system.
+
+2. Ensure you have the credentials.json file. 
+
+3. Run the main.py script to execute the project
+
+4. product_details and post_title JSON files are generated after output.
+
+5. output pic screenshot is also attached in this file.
+ 
